@@ -1,7 +1,31 @@
 title: Project
-
-files:
+  
+files: true
   sortable: true
+  fields:
+    author:
+      label: Author
+      type: text
+    copyright:
+      label: Copyright
+      type: text
+    date: true
+      label: Date
+      type: date
+    time: true
+      label: Time
+      type: time
+    caption:
+      label: Caption
+      type: textarea
+    number:
+      label: number
+      type: text
+
+fields:
+  title:
+    label: Titel
+    type:  text
 
 pages: false
 
