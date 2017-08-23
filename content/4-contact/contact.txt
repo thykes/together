@@ -1,0 +1,47 @@
+Title: Contact
+
+----
+
+Text: 
+
+**Submitting a Design**
+Please make sure your design is 1024x1024 in one of the following formats jpg/png/gif/tif. Once your design has been received you will get an email response stating your supportive design has been received.
+
+----
+
+Intro: I'm sure you are there because you want to submit a design or contact the creator/curator of this project. Awesome you are in the right place. Please use the form below to send your message or your supportive design.
+
+----
+
+Contactoptions: 
+
+- 
+  title: Contact
+  text: >
+    Feel free to drop us a line if you
+    have any questions.
+  url: mailto:support@getkirby.com
+  linktext: Write an email
+  icon: contact.svg
+- 
+  title: Forum
+  text: >
+    Join the Kirby community and connect
+    with others.
+  url: https://forum.getkirby.com/
+  linktext: Visit Kirby’s forum
+  icon: forum.svg
+- 
+  title: GitHub
+  text: >
+    Report Kirby-related issues directly on
+    GitHub.
+  url: https://github.com/getkirby
+  linktext: Kirby on GitHub
+  icon: github.svg
+- 
+  title: Docs
+  text: "Check out Kirby's detailed tutorials and instructions."
+  url: https://getkirby.com/docs
+  linktext: Documentation
+  icon: docs.svg

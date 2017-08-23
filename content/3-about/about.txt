@@ -1,0 +1,15 @@
+Title: About
+
+----
+
+Intro: This project was designed by designer <a href="http://timhykes.com/">Tim Hykes</a> with the purpose of uniting the design industry. There has been an increasing about of terrorism and hate-related crimes, and to put our craft to good use we stand here united with our message. This project come combines the messages of designers across the nation who want their voices heard.
+
+----
+
+Text: 
+
+<h3>Support the project</h3>
+If you would like to support the project you can submit your designers on the <a href="http://www.heretogether.us/contact">contact page</a>. Please follow the requirements for submitting an image. 
+
+<h3>Press</h3>
+If you are looking more information about the project, please submit your information requestion via the contact page.

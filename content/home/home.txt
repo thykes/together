@@ -1,0 +1,13 @@
+Title: Home
+
+----
+
+Intro: We are designers, and we have decided to use our craft to share a united message to the nation. Hate has no home here and <a href="https://twitter.com/search?q=%23westandtogether&src=typd">#WeStandTogether</a> to design a better place for all.
+
+----
+
+Text: 
+
+----
+
+Introheader: <span class="navy">#</span><span class="red">We</span><span class="blue">Stand</span><span class="navy">Together</span>
