@@ -9,7 +9,6 @@ role: admin
 history:
   - home
   - projects/tyler-d
-  - projects/alyissa-letters
   - about
   - contact
 firstname: Timothy

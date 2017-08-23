@@ -33,5 +33,3 @@ if(isset($limit)) $projects = $projects->limit($limit);
     </div><!-- end item -->
 
   <?php endforeach ?>
-
-</ul>
