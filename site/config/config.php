@@ -19,6 +19,8 @@ c::set('license', 'K2-PERSONAL-f30a3d56a7534f5aef2a02d1c327df1f');
 
 c::set('debug', true);
 
+c::set('locale','en_US.utf-8');
+
 c::set('panel.favicon', 'assets/img/panel-favicon.ico');
 
 c::set('uniform.language', 'en');
